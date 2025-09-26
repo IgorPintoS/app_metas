@@ -1,6 +1,6 @@
-# 📊 Aplicação em JavaScript e Node.js
+# 📊 Aplicação em Node.js
 
-Este projeto visa o desenvolvimento de uma aplicação utilizando **JavaScript** e **Node.js**, aplicando diversos conceitos fundamentais da linguagem, tais como variáveis, operadores, tipos de dados, estruturas de controle de fluxo, assincronismo, e criação de prompts interativos com a biblioteca [Inquirer](https://www.npmjs.com/package/inquirer).
+Este projeto visa o desenvolvimento de uma aplicação utilizando **Node.js**, aplicando diversos conceitos fundamentais da linguagem, tais como variáveis, operadores, tipos de dados, estruturas de controle de fluxo, assincronismo, e criação de prompts interativos com a biblioteca [Inquirer](https://www.npmjs.com/package/inquirer).
 
 ## 🚀 Funcionalidades
 
